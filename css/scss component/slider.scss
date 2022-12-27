@@ -1,0 +1,13 @@
+.slider{
+    padding-top:100px ;
+    &__title{
+        margin-bottom: 50px;
+
+    }
+    &__block-img{
+        object-fit: cover;
+        background-size: cover;
+        background-position: center ;
+        height: 600px;
+    }
+}
